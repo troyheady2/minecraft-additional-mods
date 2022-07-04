@@ -1,3 +1,5 @@
 # https://www.curseforge.com/minecraft/mc-mods/
+plant-in-a-jar
+spice-of-fabric
 turtlematic
 worldedit
